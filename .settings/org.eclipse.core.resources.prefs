@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/dbHelper/ConnectionUtils.java=UTF-8
+encoding//src/dbHelper/MySQLConnUtils.java=UTF-8
+encoding//src/filter/CookieFilter.java=UTF-8
+encoding//src/filter/JDBCFilter.java=UTF-8
+encoding//src/servlet/DeleteProductServlet.java=UTF-8
+encoding//src/servlet/DoCreateProductServlet.java=UTF-8
+encoding//src/servlet/DoEditProductServlet.java=UTF-8
+encoding//src/servlet/DoLoginServlet.java=UTF-8
+encoding//src/servlet/EditProductServlet.java=UTF-8
+encoding//src/servlet/HomeServlet.java=UTF-8
+encoding//src/servlet/LoginServlet.java=UTF-8
+encoding//src/servlet/ProductListServlet.java=UTF-8
+encoding//src/servlet/UserInfoServlet.java=UTF-8
+encoding//src/utils/MyUtils.java=UTF-8

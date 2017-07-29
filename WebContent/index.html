@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Simple Web Application</title>
+<link type="text/css" rel="Stylesheet" href="css/styles/jqx.base.css" />
+<link rel="stylesheet" 
+    href="css/styles/jqx.darkblue.css" type="text/css" />
+<script type="text/javascript" src="js/jquery-1.11.2.js"></script>
+<script type="text/javascript" src="js/jqxcore.js"></script>
+<script type="text/javascript" src="js/jqxbuttons.js"></script>
+</head>
+
+<body>
+
+	<h2>Simple Login Web Application using JSP/Servlet</h2>
+
+	<ul>
+		<li><a href="home">Home</a></li>
+		<li><a href="login">Login</a></li>
+		<li><a href="productList">Product List</a>
+	</ul>
+	<script type="text/javascript">
+    $(document).ready(function () {
+        $("#myButton").jqxButton(
+       { width: '120px', height: '35px', theme: 'darkblue' }
+       );
+    });
+ </script>
+ <input type="button" value="Click Me" id='myButton' />
+
+</body>
+</html>
